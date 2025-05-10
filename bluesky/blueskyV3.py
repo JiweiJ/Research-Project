@@ -9,8 +9,8 @@ import threading
 import os
 from datetime import datetime
 
-USERNAME = "jw-j.bsky.social"
-APP_PASSWORD = "ni4b-fkw2-fmf6-xigc"
+USERNAME = "~~~"
+APP_PASSWORD = "~~~~"
 BASE_URL = "https://bsky.social/xrpc"
 TEST_MODE = False
 TEST_QUERY_LIMIT = 2
